@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
  Create specialized permissions for users of your site, such as an "seo" permission that allows updating only certain fields of certain pieces and pages.
 
 ## Installation
